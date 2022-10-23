@@ -25,17 +25,17 @@
   }
   
   .mw-harlem_shake_slow {
-     transition: all 3.2s ease-in-out;
-    -moz-transition: all 3.2s ease-in-out;
-    -webkit-transition: all 3.2s ease-in-out;
-    -o-transition: all 3.2s ease-in-out;
-    -ms-transition: all 3.2s ease-in-out;
+     transition: all 2.2s ease-in-out;
+    -moz-transition: all 2.2s ease-in-out;
+    -webkit-transition: all 2.2s ease-in-out;
+    -o-transition: all 2.2s ease-in-out;
+    -ms-transition: all 2.2s ease-in-out;
   
-    animation: spin 4s infinite linear;
-    -moz-animation: spin 4s infinite linear;
-    -webkit-animation: spin 4s infinite linear;
-    -o-animation: spin 4s infinite linear;
-    -ms-animation: spin 4s infinite linear;
+    animation: spin 3s infinite linear;
+    -moz-animation: spin 3s infinite linear;
+    -webkit-animation: spin 3s infinite linear;
+    -o-animation: spin 3s infinite linear;
+    -ms-animation: spin 3s infinite linear;
   }
   
   /*
