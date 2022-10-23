@@ -48,10 +48,10 @@
   }
   
   .mw-harlem_shake_me {
-    -webkit-animation-duration: .4s;
-       -moz-animation-duration: .4s;
-         -o-animation-duration: .4s;
-            animation-duration: .4s;
+    -webkit-animation-duration: .3s;
+       -moz-animation-duration: .3s;
+         -o-animation-duration: .3s;
+            animation-duration: .3s;
     -webkit-animation-fill-mode: both;
        -moz-animation-fill-mode: both;
          -o-animation-fill-mode: both;
@@ -208,7 +208,7 @@
   @-webkit-keyframes bounceIn {
     0% {
       opacity: 0;
-      -webkit-transform: scale(.3);
+      -webkit-transform: scale(.4);
     }
     
     50% {
@@ -248,7 +248,7 @@
   @-o-keyframes bounceIn {
     0% {
       opacity: 0;
-      -o-transform: scale(.3);
+      -o-transform: scale(.1);
     }
     
     50% {
@@ -261,14 +261,14 @@
     }
     
     100% {
-      -o-transform: scale(1);
+      -o-transform: scale(2);
     }
   }
   
   @keyframes bounceIn {
     0% {
       opacity: 0;
-      transform: scale(.3);
+      transform: scale(.5);
     }
     
     50% {
@@ -281,7 +281,7 @@
     }
     
     100% {
-      transform: scale(1);
+      transform: scale(5);
     }
   }
   
